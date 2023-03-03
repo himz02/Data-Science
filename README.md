@@ -1,8 +1,6 @@
 # Data-Science
 This repository contains a collection of independent and guided Data Science projects as well as relevant coursework.
 
-# Data-Science-Projects
-This repository contains a number of independent and guided data science projects.
 ## Independent Projects
 - Airline Price Prediction using Random Forest regressor
 - Customer Segmentation for Market research using K-Means clustering
