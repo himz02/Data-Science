@@ -8,6 +8,8 @@ This repository contains a collection of independent and guided Data Science pro
 - Identity Card Tampering Detection using contours
 - Movie Recommender system using Cosine similarity
 - Natural Language Processing
+- Plant Disease Identification using CNN
+- Reviews Score using Hugging Face model
 - Basic Stock Market Analysis
 - Tianic Dataset EDA
 
